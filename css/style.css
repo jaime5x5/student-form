@@ -1,0 +1,23 @@
+#name, #snum, #major, #email, #gdate {
+	height: 5em;
+}
+
+.submitBtn {
+	font-size: 1.5em;
+	height: 5em;
+	width: 12em;
+}
+
+label {
+	font-weight: bold;
+	color: #842C98;
+	font-size: 1.2em;
+}
+
+h1 {
+	color: #4E5B9E;
+	text-shadow: 1px 1px 3px white;
+}
+body {
+	background-image:url("../img/whitey.png");
+}
